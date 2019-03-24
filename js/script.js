@@ -17,7 +17,7 @@ let arrData = arr1;
 
 function animated_Bar_Chart()
 {  
-    if(document.getElementById("Button 1"))
+    if(document.getElementById("Exercise 22 Button 1"))
     {
         console.log("Er bestaan al 3 buttons")
     }
