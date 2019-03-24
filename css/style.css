@@ -1,0 +1,59 @@
+/*
+Pascal Vos
+1422537vos
+03-03-2019
+*/
+
+body 
+{
+    width: 100%;
+    padding: 10px;
+}
+
+figcaption
+{
+    text-align: center;
+    font-size: 12px
+}
+
+img
+{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p
+{
+   text-align: center;
+   font-weight: bold;
+}
+
+#buttons button
+{
+    margin: auto;
+    background-color: rgb(76, 168, 175);
+    border: 1px solid rgb(80, 180, 175); 
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 100%;
+    display: block; 
+}
+
+#buttons button:not(:last-child) 
+{
+    border-bottom: none;
+}
+
+#buttons button:hover 
+{
+    background-color: #3e8e41;
+}
+
+#map_SVG
+{
+    background-color: lightgrey;
+}
