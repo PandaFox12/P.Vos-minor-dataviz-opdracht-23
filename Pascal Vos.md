@@ -10,6 +10,9 @@ https://pandafox12.github.io/Week_4_Exercises_Bundle/
 Week 5:\
 https://pandafox12.github.io/P.Vos-minor-dataviz-opdracht-23/
 
+Week 5 hosted on a webserver:\
+http://student-1422537vos.mamdt.com/
+
 Classmate Wouter Derix his rocket:\
 https://wouterderix.github.io/w.DERIX-minor-dataviz-opdracht-11/1526227Derix-opdracht6/
 
